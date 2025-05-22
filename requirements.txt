@@ -1,0 +1,8 @@
+discord.py>=2.3.0
+python-dotenv>=1.0.0
+numpy>=1.24.0
+numba>=0.57.0
+sounddevice>=0.4.6
+soundfile>=0.12.1
+SpeechRecognition>=3.10.0
+concurrent-log-handler>=0.9.20
